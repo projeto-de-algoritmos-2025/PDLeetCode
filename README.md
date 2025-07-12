@@ -16,7 +16,7 @@
 
 Este repositório apresenta resoluções de problemas envolvendo **Grafos**, propostos como parte da **Lista 1** da disciplina de **Projeto de Algoritmos**.
 
-A plataforma [LeetCode](https://leetcode.com/) foi utilizada para selecionar e resolver as questões, que possuem dificuldade média ou difícil. A resolução de cada questão está em sua pasta correspondente neste repositório; caso queira conferir o enunciado, basta clicar no link disponível na [Tabela 1](#exercícios-resolvidos).
+A plataforma [LeetCode](https://leetcode.com/) foi utilizada para selecionar e resolver as questões, que possuem dificuldade média ou difícil. A resolução de cada questão está em sua pasta correspondente neste repositório; caso queira conferir o enunciado, basta clicar no link disponível na [Tabela](#exercícios-resolvidos).
 
 As soluções apresentadas foram elaboradas focando nos conceitos explicados em sala de aula sobre programação dinâmica.
 
