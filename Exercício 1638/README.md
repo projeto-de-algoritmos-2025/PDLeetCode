@@ -8,7 +8,7 @@ A comparação de todas as substrings de s com todas de t não é complicada. O 
 
 ## Solução
 
-A solução que implementamos foi um algoritmo de Programação Dinâmica recursivo com memoização. Ele funciona da seguinte forma:
+A solução que implementamos é um algoritmo de Programação Dinâmica recursivo com memoização. Ele funciona da seguinte maneira:
 
 Em vez de comparar substrings inteiras repetidamente, analisamos as strings caractere a caractere e mantemos uma memória de dois estados-chave para cada par de posições (i, j):
 
