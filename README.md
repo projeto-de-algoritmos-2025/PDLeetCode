@@ -34,7 +34,7 @@ A plataforma disponibiliza problemas classificados por dificuldade (fácil, méd
 | 1 | [1638. Count Substrings That Differ by One Character](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/description/?envType=problem-list-v2&envId=dynamic-programming) | [LC1638.py](./Exercício%201638/LC1638.py)| Média | Ana Luiza Hoffmann Ferreira |
 | 2 | [1255. Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/?envType=problem-list-v2&envId=dynamic-programming) | [LC1255.py](./Exercício%201255/LC1255.py) | Difícil | Ana Luiza Hoffmann Ferreira |
 | 3 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/?envType=problem-list-v2&envId=dynamic-programming) | [LC22.py](./Exercício%2022/LC22.py) | Média | Edson Gomes da Silva Filho |
-| 4 | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/?envType=problem-list-v2&envId=dynamic-programming) | [LC10.py](./Exercício%2022/LC10.py) | Difícil | Edson Gomes da Silva Filho |
+| 4 | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/?envType=problem-list-v2&envId=dynamic-programming) | [LC10.py](./Exercício%2010/LC10.py) | Difícil | Edson Gomes da Silva Filho |
 
 ## Execução dos códigos na plataforma LeetCode
 
