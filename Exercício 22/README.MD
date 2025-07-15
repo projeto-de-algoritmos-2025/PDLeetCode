@@ -18,6 +18,7 @@ Em programação dinâmica, exploramos a decomposição recursiva da estrutura: 
     - c pares dentro do primeiro “(…)”
 
     - i−1−c pares depois desse bloco
+
 Da seguinte forma:
 ```
 dp[i] = [
@@ -30,7 +31,8 @@ dp[i] = [
 
 4. No fim, dp[n] entrega todas as combinações. Essa formulação replica a soma de produtos típica dos números de Catalan*.
 
-* Os [números de Catalan](https://pt.wikipedia.org/wiki/N%C3%BAmeros_de_Catalan) são uma sequência de números naturais que aparecem em diversos problemas de combinatória, frequentemente envolvendo objetos definidos recursivamente.
+
+/* Os [números de Catalan](https://pt.wikipedia.org/wiki/N%C3%BAmeros_de_Catalan) são uma sequência de números naturais que aparecem em diversos problemas de combinatória, frequentemente envolvendo objetos definidos recursivamente.
 
 
 ## LeetCode
