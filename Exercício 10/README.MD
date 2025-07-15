@@ -5,7 +5,6 @@ Esse problema consiste em encontrar correspondências entre um padrão p e uma s
 Em outras palavras, queremos saber se a string s coincidi completa com o padrão p, em que:
 
     . corresponde a qualquer caractere único;
-
     * corresponde a zero ou mais ocorrências do elemento anterior.
 
 ## Solução
@@ -17,7 +16,6 @@ Tomando por base a definição de programação dinâmica de resolver problemas 
 Definimos uma matriz dp de dimensão (m+1)×(n+1), onde
 
     * m = len(s), n = len(p)
-
     * dp[i][j] é True se e somente se o prefixo s[:i] casa exatamente com o prefixo p[:j].
 
 ### Casos base
